@@ -1,5 +1,5 @@
 {
-  "version": "0.5.0",
-  "notes": "بررسی نسخه تازه همان لحظهٔ باز شدن.",
+  "version": "0.5.1",
+  "notes": "جستجوی نسخه تازه بدون پیام روی صفحه، مگر نسخه جدید باشد.",
   "url": "https://github.com/us-crypto/persepolis-games/releases/latest"
 }
