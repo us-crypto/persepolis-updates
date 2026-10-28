@@ -1,5 +1,5 @@
 {
-  "version": "0.5.1",
-  "notes": "جستجوی نسخه تازه بدون پیام روی صفحه، مگر نسخه جدید باشد.",
-  "url": "https://github.com/us-crypto/persepolis-games/releases/latest"
+  "version": "0.5.2",
+  "notes": "جستجوی نسخه فقط از گیت‌هاب عمومی.",
+  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.5.2/persepolis-0.5.2-arm64.apk"
 }
