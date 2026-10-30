@@ -1,8 +1,8 @@
 {
-  "version": "0.6.5",
+  "version": "0.6.6",
   "force": true,
-  "notes": "دکمهٔ دانلود از گیت‌هاب. بدون نسخهٔ تازه، بازی باز نمی‌شود.",
-  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.5/persepolis-0.6.5-arm64.apk",
+  "notes": "موتور و مسابقه دوباره ساخته شد. اول هات‌اسپات، بعد بازی.",
+  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.6/persepolis-0.6.6-arm64.apk",
   "play": "",
   "apple": ""
 }
