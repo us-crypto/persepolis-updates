@@ -1,8 +1,8 @@
 {
-  "version": "0.6.1",
+  "version": "0.6.2",
   "force": true,
-  "notes": "نشان فروهر پرسپولیس روی آیکون برنامه.",
-  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.1/persepolis-0.6.1-arm64.apk",
+  "notes": "دکمهٔ بررسی به‌روزرسانی.",
+  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.2/persepolis-0.6.2-arm64.apk",
   "play": "https://play.google.com/store/apps/details?id=ir.persepolis.roadtrip_offline_games",
   "apple": "https://apps.apple.com/app/persepolis-games"
 }
