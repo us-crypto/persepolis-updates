@@ -1,8 +1,8 @@
 {
-  "version": "0.6.3",
+  "version": "0.6.4",
   "force": true,
-  "notes": "اتصال جاده‌ای با هات‌اسپات بین آیفون و اندروید.",
-  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.3/persepolis-0.6.3-arm64.apk",
+  "notes": "فقط هات‌اسپات برای بازی دو گوشی.",
+  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.4/persepolis-0.6.4-arm64.apk",
   "play": "https://play.google.com/store/apps/details?id=ir.persepolis.roadtrip_offline_games",
   "apple": "https://apps.apple.com/app/persepolis-games"
 }
