@@ -1,8 +1,8 @@
 {
-  "version": "0.6.4",
+  "version": "0.6.5",
   "force": true,
-  "notes": "فقط هات‌اسپات برای بازی دو گوشی.",
-  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.4/persepolis-0.6.4-arm64.apk",
-  "play": "https://play.google.com/store/apps/details?id=ir.persepolis.roadtrip_offline_games",
-  "apple": "https://apps.apple.com/app/persepolis-games"
+  "notes": "دکمهٔ دانلود از گیت‌هاب. بدون نسخهٔ تازه، بازی باز نمی‌شود.",
+  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.5/persepolis-0.6.5-arm64.apk",
+  "play": "",
+  "apple": ""
 }
