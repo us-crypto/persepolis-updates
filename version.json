@@ -1,5 +1,8 @@
 {
-  "version": "0.5.2",
-  "notes": "جستجوی نسخه فقط از گیت‌هاب عمومی.",
-  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.5.2/persepolis-0.5.2-arm64.apk"
+  "version": "0.6.0",
+  "force": true,
+  "notes": "نمای تخت جمشید، دو گوشی، موتور، و به‌روزرسانی اجباری.",
+  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.0/persepolis-0.6.0-arm64.apk",
+  "play": "https://play.google.com/store/apps/details?id=ir.persepolis.roadtrip_offline_games",
+  "apple": "https://apps.apple.com/app/persepolis-games"
 }
