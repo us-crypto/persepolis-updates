@@ -1,0 +1,36 @@
+name: Publish release
+
+# Put the APK in incoming/ together with the new version.json and push.
+# This makes the GitHub release v<version>, attaches the APK and clears incoming/.
+on:
+  push:
+    branches: [main]
+    paths: ['incoming/**']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          V=$(jq -r .version version.json)
+          NOTES=$(jq -r .notes version.json)
+          ls incoming/*.apk
+          gh release view "v$V" >/dev/null 2>&1 && gh release upload "v$V" incoming/*.apk --clobber || \
+            gh release create "v$V" incoming/*.apk --title "Persepolis Games $V" --notes "$NOTES
+
+          All rights reserved Maverick Smith" --latest
+      - name: Clear incoming
+        run: |
+          git config user.name "Maverick Smith"
+          git config user.email "mavericksmithflorida@yahoo.com"
+          git rm -q incoming/*.apk
+          git commit -m "Clear incoming after publishing"
+          git push
