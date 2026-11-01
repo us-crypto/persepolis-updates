@@ -1,8 +1,8 @@
 {
-  "version": "0.6.6",
+  "version": "0.6.7",
   "force": true,
-  "notes": "موتور و مسابقه دوباره ساخته شد. اول هات‌اسپات، بعد بازی.",
-  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.6/persepolis-0.6.6-arm64.apk",
+  "notes": "تنها یا چند نفره. مهمان نام Persepolis را می‌بیند و می‌زند.",
+  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.7/persepolis-0.6.7-arm64.apk",
   "play": "",
   "apple": ""
 }
