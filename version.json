@@ -1,8 +1,8 @@
 {
-  "version": "0.6.7",
+  "version": "0.6.8",
   "force": true,
-  "notes": "تنها یا چند نفره. مهمان نام Persepolis را می‌بیند و می‌زند.",
-  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.7/persepolis-0.6.7-arm64.apk",
+  "notes": "چند گوشی با هات‌اسپات، آیفون و اندروید با هم. تخته‌نرد، منچ، اونو، شطرنج، دام، چهارتایی، دوز و منقله با رایانه یا دست‌به‌دست. یک بار نسخهٔ قبلی را پاک کنید.",
+  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.8/persepolis-0.6.8-arm64.apk",
   "play": "",
   "apple": ""
 }
