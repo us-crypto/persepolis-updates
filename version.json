@@ -1,8 +1,9 @@
 {
-  "version": "0.6.8",
+  "version": "0.6.9",
   "force": true,
-  "notes": "چند گوشی با هات‌اسپات، آیفون و اندروید با هم. تخته‌نرد، منچ، اونو، شطرنج، دام، چهارتایی، دوز و منقله با رایانه یا دست‌به‌دست. یک بار نسخهٔ قبلی را پاک کنید.",
-  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.8/persepolis-0.6.8-arm64.apk",
+  "notes": "اسم و ظاهر تازه: «دورهمی»! آیکون جدید، رنگ‌های شاد و راهنمای سادهٔ هات‌اسپات. این نسخه یک برنامهٔ جدا نصب می‌شود؛ بعد از نصب، برنامهٔ قدیمی را پاک کن.",
+  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.9/dorhami-0.6.9-arm64.apk",
   "play": "",
-  "apple": ""
+  "apple": "",
+  "donate": "https://www.coffeebede.com/"
 }
