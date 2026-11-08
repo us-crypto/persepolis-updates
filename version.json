@@ -1,12 +1,23 @@
 {
-  "version": "0.6.10",
+  "version": "0.6.11",
   "force": true,
-  "notes": "موتور تپه با فیزیک واقعی (چپه می‌شی!)، بازی ترافیک تازه، صدای کارت و تاس با دکمهٔ بی‌صدا، و حمایت با قهوه یا دیدن تبلیغ.",
-  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.10/dorhami-0.6.10-arm64.apk",
+  "notes": "پرداخت حمایت از داخل کافه‌بازار و مایکت، تبلیغ ایرانی (تپسل) فقط وقتی اینترنت داری.",
+  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.11/dorhami-0.6.11.apk",
   "play": "",
   "apple": "",
-  "donate": "https://www.coffeebede.com/",
   "ads": {
-    "on": true
+    "on": true,
+    "tapsell_key": "",
+    "banner": "",
+    "rewarded": ""
+  },
+  "stores": {
+    "bazaar": "",
+    "myket": ""
+  },
+  "billing": {
+    "bazaar_rsa": "",
+    "myket_rsa": "",
+    "prices": {}
   }
 }
