@@ -1,15 +1,16 @@
 {
-  "version": "0.6.17",
+  "version": "0.6.18",
   "force": true,
-  "notes": "صفحهٔ منچ دیگه بالا پایین نمی‌پره. کلمه‌بازی: مرحله‌های ۶ و ۷ حرفی برای سطح حرفه‌ای. صدای موتور و ماشین تازه که با سرعت عوض می‌شه. صدای انفجار مین‌روب کوتاه و پرصدا. جرأت یا حقیقت: سؤال‌های شیطونی و +۱۸ تازه و جسورانه، و اضافه و کم کردن بازیکن وسط بازی.",
-  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.17/dorhami-0.6.17.apk",
+  "notes": "صدای موتور کراس، بم و آروم. هر دست تازه یه تبلیغ تازه، و هر چند دست یه تبلیغ کوتاه بین دست‌ها. دکمه‌ها دیگه حرف به حرف نمی‌شکنن.",
+  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.18/dorhami-0.6.18.apk",
   "play": "",
   "apple": "",
   "ads": {
     "on": true,
     "tapsell_key": "",
     "banner": "",
-    "rewarded": ""
+    "rewarded": "",
+    "interstitial": ""
   },
   "stores": {
     "bazaar": "",
