@@ -1,8 +1,8 @@
 {
-  "version": "0.6.20",
+  "version": "0.6.21",
   "force": true,
-  "notes": "صفحه‌ی حمایت با چهار هدیه‌ی جدید (یه قهوه، قهوه و کیک، کافه و کیک یزدی، حامی جوونای ایرانی)، پرداخت از کافه‌بازار و مایکت، و رفع بسته شدن برنامه موقع تبلیغ تمام‌صفحه.",
-  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.20/dorhami-0.6.20.apk",
+  "notes": "جای پایین صفحه‌ها فقط برای تبلیغه؛ نوشته‌های راهنما برداشته شد.",
+  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.21/dorhami-0.6.21.apk",
   "play": "",
   "apple": "",
   "ads": {
