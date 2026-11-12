@@ -1,8 +1,8 @@
 {
-  "version": "0.6.19",
+  "version": "0.6.20",
   "force": true,
-  "notes": "صدای واقعی موتور کراس و ماشین که با سرعت بالا و پایین می‌ره، و صدای تصادف واقعی. مین‌روب: انفجار بم با پژواک، لرزش نرم صفحه و لرزش گوشی.",
-  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.19/dorhami-0.6.19.apk",
+  "notes": "صفحه‌ی حمایت با چهار هدیه‌ی جدید (یه قهوه، قهوه و کیک، کافه و کیک یزدی، حامی جوونای ایرانی)، پرداخت از کافه‌بازار و مایکت، و رفع بسته شدن برنامه موقع تبلیغ تمام‌صفحه.",
+  "url": "https://raw.githubusercontent.com/us-crypto/persepolis-updates/apk/dorhami-0.6.20.apk",
   "play": "",
   "apple": "",
   "ads": {
@@ -17,8 +17,8 @@
     "myket": ""
   },
   "billing": {
-    "bazaar_rsa": "",
-    "myket_rsa": "",
+    "bazaar_rsa": "MIHNMA0GCSqGSIb3DQEBAQUAA4G7ADCBtwKBrwDOeNLA+9AQdbjKOdxObQZlLyaS/m8D0gxaFCixR3+RR+a1VhQbP05u00T0qk/5dsulTrxdtjo7wlIPKKWY1XthvvKden8xzTZr+ETh08WjKWPu3FHXaP9C34wx+nwnHtJMqMCQwRnB5h3HZB2jHPgYhiAke/xn+giIZaMR9fyJdORels2zVw+dnYDWnJkMDvt0CFo2l8BoyrlQi65fqlfjM2D39QFcVyDCqSAUW4kCAwEAAQ==",
+    "myket_rsa": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCm/oz6Wx85jJYswf48aNLpaQeF/dNlpluEr+pzDv7IvEr+xIWvcEJ3eP1uW8MouUAsVQAl4ONHXAptL7Y19gMA5ZS355fqYNwdpSEuQ4pThZJR6heeU9sALP/DEYRPSgaOXreTfOPgy6iy0S1UrRlSHohhTK+ElzHri8gu1sjtUQIDAQAB",
     "prices": {}
   }
 }
