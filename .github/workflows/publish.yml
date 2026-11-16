@@ -24,13 +24,13 @@ jobs:
           NOTES=$(jq -r .notes version.json)
           ls incoming/*.apk
           gh release view "v$V" >/dev/null 2>&1 && gh release upload "v$V" incoming/*.apk --clobber || \
-            gh release create "v$V" incoming/*.apk --title "Persepolis Games $V" --notes "$NOTES
+            gh release create "v$V" incoming/*.apk --title "Dorhami $V" --notes "$NOTES
 
-          All rights reserved Maverick Smith" --latest
+          All rights reserved by M.S." --latest
       - name: Clear incoming
         run: |
           git config user.name "Maverick Smith"
-          git config user.email "mavericksmithflorida@yahoo.com"
+          git config user.email "us-crypto@users.noreply.github.com"
           git rm -q incoming/*.apk
           git commit -m "Clear incoming after publishing"
           git push
