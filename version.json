@@ -1,8 +1,8 @@
 {
-  "version": "0.6.22",
+  "version": "0.6.23",
   "force": true,
-  "notes": "تبلیغ در همهٔ بازی‌ها، خرید قهوه درست شد، آجرهای مثلثی در توپ‌ها، صدای تازهٔ گاز ماشین و موتور، راهنمای هات‌اسپات.",
-  "url": "https://github.com/us-crypto/persepolis-updates/releases/download/v0.6.22/dorhami-0.6.22.apk",
+  "notes": "دورهمی هیچ شرط‌بندی یا قماری ندارد؛ پرداخت فقط برای حمایت از سازنده است. سکه‌ها حالا ستاره‌اند.",
+  "url": "https://github.com/us-crypto/persepolis-updates/raw/apk/dorhami-0.6.23.apk",
   "play": "",
   "apple": "",
   "ads": {
