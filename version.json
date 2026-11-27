@@ -1,8 +1,8 @@
 {
-  "version": "0.6.23",
-  "force": true,
-  "notes": "دورهمی هیچ شرط‌بندی یا قماری ندارد؛ پرداخت فقط برای حمایت از سازنده است. سکه‌ها حالا ستاره‌اند.",
-  "url": "https://github.com/us-crypto/persepolis-updates/raw/apk/dorhami-0.6.23.apk",
+  "version": "0.6.24",
+  "force": false,
+  "notes": "بازی‌های تازه: شکار پرنده، تانک و تیرکمون؛ مرحله و ستاره در بیشتر بازی‌ها؛ حالت تیره؛ معرفی به دوستان با QR؛ آیکون و رنگ‌های تازه.",
+  "url": "https://github.com/us-crypto/persepolis-updates/raw/apk/dorhami-0.6.24.apk",
   "play": "",
   "apple": "",
   "ads": {
